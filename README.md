@@ -2,7 +2,7 @@
 
 - Master Build Status [![Build Status](https://travis-ci.org/PimeTandas/sem.svg?branch=master)](https://travis-ci.org/PimeTandas/sem)
 
-- Develop Build Status [![Build Status](https://travis-ci.org/kevin-chalmers/sem.svg?branch=develop)](https://travis-ci.org/kevin-chalmers/sem)
+- Develop Build Status [![Build Status](https://travis-ci.org/PimeTandas/sem.svg?branch=master)](https://travis-ci.org/PimeTandas/sem)
 
 - License [![LICENSE](https://img.shields.io/github/license/PimeTandas/sem.svg?style=flat-square)](https://github.com/<github-username>/sem/blob/master/LICENSE)
 
